@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  color: darkblue;
+  color: gray;
   text-align: center;
   font-size: 17px;
   margin-top: -10px;
@@ -21,7 +21,7 @@ h2 {
 p {margin-top: 40px;
   font-family: garamond;
   font-size: 17px;
-  text-align: left;
+  text-align: center;
 }
 
 img {
