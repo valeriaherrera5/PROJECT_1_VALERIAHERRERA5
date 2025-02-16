@@ -1,25 +1,25 @@
 body {
-  background-color: lightblue;
+  background-color: darkseagreen;
   margin-top: 15px;
     margin-left: 15px;
 }
 
 h1 {
-  color: darkblue;
-  text-align: left;
-  font-family: georgia;
+  color: darkgreen;
+  text-align: center;
+  font-family: garamond;
 }
 
 h2 {
   color: darkblue;
-  text-align: left;
+  text-align: center;
   font-size: 17px;
   margin-top: -10px;
-  font-family: georgia;
+  font-family: garamond;
 }
 
 p {margin-top: 40px;
-  font-family: georgia;
+  font-family: garamond;
   font-size: 17px;
   text-align: left;
 }
