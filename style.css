@@ -18,7 +18,8 @@ h2 {
   font-family: garamond;
 }
 
-p {margin-top: 40px;
+p {
+  margin-top: 40px;
   font-family: garamond;
   font-size: 17px;
   text-align: center;
